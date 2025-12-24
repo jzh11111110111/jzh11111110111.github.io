@@ -24,8 +24,6 @@ links:
   - icon: at-symbol
     url: mailto:zhehao.jin@outlook.com
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
   - icon: brands/github
     url: https://github.com/jzh11111110111
   - icon: brands/linkedin
@@ -37,16 +35,16 @@ links:
 
 interests:
   - The Interaction between Model Theory and Number Theory
-  - Abstract Elementary Classes
+  - Abstract Elementary Classes and Abstract Elementary Classes 
   - Gödel's Works
   - History of Western Philosophy--From Thales to Heidegger
-  - Dynamic Neural-Symbolic Artificial Intelligence
+  - Dynamic Neuro-Symbolic Artificial Intelligence
 
 education:
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+  - degree: BS Philosophy
+    institution: ECNU
+    start: 2023-09-10
+    end: 2027-07
      summary: |
       Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
     button:
@@ -54,32 +52,26 @@ education:
       url: /resume.pdf
       icon: hero/arrow-down-tray
 
-experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
-    summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
-
+#experience:
+ # - role: Senior AI Research Scientist
+  #  org: Meta AI
+   # start: 2020-01-01
+    #summary: |
+     # Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
+    #button:
+     # text: View portfolio
+      #url: /
+      #icon: hero/arrow-down-tray
+  
 skills:
   - name: Technical Skills
     items:
+      - label: Coq & Lean4 & Maude
+        level: 5
       - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
         level: 4
+      - label: Machine Learning
+        level: 3
   - name: Research & Communication
     items:
       - label: Academic Writing
@@ -87,19 +79,22 @@ skills:
       - label: Conference Presentations
         level: 4
       - label: Grant Proposals
-        level: 4
+        level: 5
 
 languages:
-  - name: English
+  - name: Chinese
     level: 5
     label: Native
-  - name: Spanish
+  - name: English
     level: 4
     label: Fluent
+  - name: French
+    level: 3
+    label: Conversational
 
-awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+#awards:
+ # - title: Best Paper Award
+  #  awarder: NeurIPS
+   # date: "2022-12-01"
+    #summary: Awarded for groundbreaking work on efficient training of large models.
+    #icon: hero/trophy
