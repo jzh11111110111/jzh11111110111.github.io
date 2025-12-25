@@ -1,15 +1,18 @@
 ---
-title: scikit-learn
-date: 2023-10-26
+title: Dynamic Neuro-Symbolic AI
+date: 2025-12-25
 links:
   - type: site
     url: https://github.com/scikit-learn/scikit-learn
 tags:
-  - Hugo
-  - HugoBlox
-  - Markdown
+  - AI
+  - Symbolic Logic
+  - Computational Learning Theory
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+We will enable artificial intelligence to achieve the following goals:
+1.Realize reasoning without relying on probability and statistics
+2.Make logical languages learnable
+3.Achieve direct integration of symbolic systems and machine learning
 
 <!--more-->
