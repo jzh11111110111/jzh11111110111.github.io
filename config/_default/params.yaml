@@ -4,7 +4,6 @@
 # Tutorial: https://docs.hugoblox.com/tutorial/
 # Documentation: https://docs.hugoblox.com/
 # ══════════════════════════════════════════════════════════════════════════════
-favicon: "/favicon.ico"
 hugoblox:
   schema: "2.0"
 
@@ -13,6 +12,7 @@ hugoblox:
   # Site-level branding (for people/profiles, use the author system in content/authors/)
   # ────────────────────────────────────────────────────────────────────────────
   identity:
+    favicon: "/favicon.ico"
     # Site name - shown in navbar, footer, copyright, and browser title by default
     name: "Chiron"
     # Legal entity for copyright notices (defaults to name if not set)
