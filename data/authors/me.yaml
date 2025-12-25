@@ -9,8 +9,6 @@ name:
   pronunciation: 'Jīn Zhé Hào'  # Example: Wáng Wěi
 postnominals:
   - 
-#status:
- # icon: "☕️"
 role: Student
 bio: |
   Chiron is a researcher in Model Theory and Number Theory. His work and 
@@ -37,7 +35,7 @@ interests:
   - Interaction between Model Theory and Number Theory
   - Abstract Elementary Classes and Compact Abstract Theories 
   - Gödel's Works
-  - History of Western Philosophy--From Thales to Heidegger
+  - History of Western Philosophy--from Thales to Heidegger
   - Dynamic Neuro-Symbolic Artificial Intelligence
 
 education:
