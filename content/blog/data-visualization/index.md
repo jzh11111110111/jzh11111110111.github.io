@@ -1,13 +1,13 @@
 ---
-title: 📈 Communicate your results effectively with the best data visualizations
-summary: Use popular tools such as HuggingFace, Plotly, Mermaid, and data frames.
-date: 2023-10-25
+title:  Recruiting for the Dynamic Neuro-Symbolic AI Team
+summary: Use popular tools such as Algebraic Semantics, Logical Neural Network, and Transformer Architecture.
+date: 2026-2-23
 authors:
   - me
 tags:
-  - Hugo
-  - Hugo Blox
-  - Markdown
+  - AI
+  - Recruitment
+  - Application
 cover:
   image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=2560"
   position:
@@ -29,7 +29,7 @@ image:
 
 Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.
 
-Use popular tools such as Plotly, Mermaid, and data frames.
+Use popular tools such as Algebraic Semantics, Logical Neural Network, and Transformer Architecture.
 
 ## Embed Rich Content
 
