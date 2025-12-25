@@ -8,6 +8,8 @@ name:
   alternate: '金哲浩'
   pronunciation: 'Jīn Zhé Hào'  # Example: Wáng Wěi
 postnominals:
+status:
+  icon: ♾️
   - 
 role: Student
 bio: |
