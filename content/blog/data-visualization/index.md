@@ -36,29 +36,17 @@ We are looking for 1 Scientist, 3 Engineers, and 1 Domain-Specific Expert to joi
 
 Use popular tools such as Algebraic Semantics, Logical Neural Network, and Transformer Architecture.
 
-## Embed Rich Content
+## Recruitment Details
 
-HuggingFace Model
+For the official recruitment details, please refer to the content on this page.
 
-{{< embed platform="huggingface" resource="google/embeddinggemma-300m" type="model" >}}
-
-HuggingFace Dataset
-
-{{< embed platform="huggingface" resource="fka/awesome-chatgpt-prompts" type="dataset" >}}
-
-GitHub Repository
-
-{{< embed platform="github" resource="HugoBlox/hugo-blox-builder" type="repo" >}}
-
-Custom embed with manual data
-
-{{< embed url="https://example.com" title="My Custom Resource" description="A great resource for learning" >}}
+{{< embed url="https://github.com/jzh11111110111/Information-in-AI/blob/Real-time-Info/Info202512.md" description="Official Recruitment Details" width="600" height="400" >}}
 
 ### Custom Images
 
 Embed beautiful images from any source with Hugo image processing (Unsplash, custom URLs, etc.):
 
-{{< embed url="https://example.com" title="Data Visualization Guide" description="Beautiful data visualization workspace" image="https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?q=80&w=800&h=600&auto=format&fit=crop" width="800" height="600" quality="90" >}}
+{{< embed url="https://example.com" title="Data Visualization Guide" description="Beautiful data visualization workspace"  width="800" height="600" >}}
 
 You can also add images to any platform embed:
 
