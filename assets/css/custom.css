@@ -1,7 +1,9 @@
 html {
-  font-size: 14px; /* 默认一般是 16px，可改成 14px 或 15px */
+  font-size: 15px;
 }
 
-body {
-  font-size: 0.95rem;
+.content {
+  max-width: 680px;
+  font-size: 0.95rem;      /* ≈ 14.25px */
+  line-height: 1.5;
 }
