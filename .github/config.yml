@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: jzh11111110111.github.io/
+  repo: chiron.github.io/
   branch: main  # 仓库主分支（通常是 main 或 master）
   base_url: https://github.com  # 无需修改（国内可忽略）
 
