@@ -65,7 +65,7 @@ skills:
   - name: Technical Skills
     items:
       - label: Coq & Lean4 & Maude
-        level: 5
+        level: 4
       - label: Python
         level: 4
       - label: Machine Learning
@@ -73,7 +73,7 @@ skills:
   - name: Research & Communication
     items:
       - label: Academic Writing
-        level: 5
+        level: 4.5
       - label: Conference Presentations
         level: 4
       - label: Grant Proposals
@@ -84,10 +84,10 @@ languages:
     level: 5
     label: Native
   - name: English
-    level: 4
+    level: 3.5
     label: Fluent
   - name: French
-    level: 2
+    level: 1.5
     label: Conversational
 
 #awards:
